@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70665836950",
+    "project_id": "fcm-notification-70181",
+    "storage_bucket": "fcm-notification-70181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70665836950:android:597d7f21c25dc1af8fe5b7",
+        "android_client_info": {
+          "package_name": "org.freedu.fcmnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4gAv-W5WgZmeeHnHFw8I-VvhHX9qSiWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
